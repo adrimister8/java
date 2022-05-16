@@ -9,5 +9,5 @@ package dawcuenta_1;
  * @author adrire
  */
 public class MiClase {
-    
+    int uno = 1;
 }
